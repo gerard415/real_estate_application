@@ -64,7 +64,7 @@ export async function getServerSideProps({ query }) {
   
     const data = await fetchApi(`${baseUrl}/properties/list?locationExternalIDs=${locationExternalIDs}&purpose=${purpose}&categoryExternalID=${categoryExternalID}&bathsMin=${bathsMin}&rentFrequency=${rentFrequency}&priceMin=${minPrice}&priceMax=${maxPrice}&roomsMin=${roomsMin}&sort=${sort}&areaMax=${areaMax}`);
   
-    return {   
+    return {  
       props: {
         properties: data?.hits,
       },
