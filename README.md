@@ -1,34 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Real Estate Application
+Simple real estate application in which users can see various available real estate for both rent and sale.
 
-## Getting Started
+## Features
+- Ability to view various real estate available for both rent and sale
+- Ability to filter the search according to price, no of rooms, squarefeet etc
+- Ability to search by location
 
-First, run the development server:
+## Technologies
+- NextJs
+- Material UI
+- Realtor API
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/gerard415/inventory-management-application/assets/82114246/67b51abb-7aaa-49ed-802a-f39f5c575004)
+![image](https://github.com/gerard415/inventory-management-application/assets/82114246/042668df-4107-4f78-b9c9-8a632f44a253)
+![image](https://github.com/gerard415/inventory-management-application/assets/82114246/e2f6e301-6248-48f2-8dbf-83141e1732b3)
