@@ -8,8 +8,9 @@ Simple real estate application in which users can see various available real est
 
 ## Technologies
 - NextJs
+- HTML
+- CSS
 - Material UI
-- Realtor API
 
 ![image](https://github.com/gerard415/inventory-management-application/assets/82114246/67b51abb-7aaa-49ed-802a-f39f5c575004)
 ![image](https://github.com/gerard415/inventory-management-application/assets/82114246/042668df-4107-4f78-b9c9-8a632f44a253)
